@@ -261,7 +261,7 @@ harness = false
 # rattler = { git = "https://github.com/conda/rattler", branch = "main" }
 # rattler_sandbox = { git = "https://github.com/conda/rattler", branch = "main" }
 # rattler_cache = { git = "https://github.com/conda/rattler", branch = "main" }
-# rattler_conda_types = { git = "https://github.com/conda/rattler", branch = "main" }
+rattler_conda_types = { git = "https://github.com/probli/rattler", rev = "4334da5b8d32468611cdceeb3e1d0b97fcc3fcf0" }
 # rattler_digest = { git = "https://github.com/conda/rattler", branch = "main" }
 # rattler_index = { git = "https://github.com/conda/rattler", branch = "main" }
 # rattler_networking = { git = "https://github.com/conda/rattler", branch = "main" }
